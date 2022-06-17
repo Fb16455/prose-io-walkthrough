@@ -30,5 +30,4 @@ Jekyll may be a tool for creating and maintaining [JAMStack](JAMStack) projects.
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
-[JAMStack: https://jamstack.org/
-
+[JAMStack]: https://jamstack.org/
